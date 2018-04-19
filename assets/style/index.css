@@ -65,18 +65,17 @@ ul {
 }
 
 .header-menu .header-menu-item {
-  padding: 0 10px;
   border-right: 1px solid #ccc;
 }
 
-.header-menu .header-menu-item:last-child {
-  border-right: none;
-}
-
 .header-menu .header-menu-item a {
-  display: inline-block;
+  display: block;
   padding: 0 10px;
   color: #333;
+}
+
+.header-menu .header-menu-item :last-child {
+  border-right: none;
 }
 
 .header-right {

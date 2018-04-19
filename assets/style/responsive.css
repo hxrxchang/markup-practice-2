@@ -1,0 +1,16 @@
+@media (max-width: 1289px) {
+  .header-left .header-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+
+  .header-center {
+    display: none;
+  }
+
+  .header-right {
+    display: none;
+  }
+}
