@@ -13,4 +13,29 @@
   .header-right {
     display: none;
   }
+
+  .top-wrapper {
+    display: block;
+    height: 100%;
+  }
+
+  .top-wrapper .container {
+    display: block;
+  }
+
+  .top-wrapper .container .top-wrapper-left {
+    text-align: center;
+    padding-left: 100px;
+  }
+
+  .top-wrapper .container .top-wrapper-right
+  .mail-form-container {
+    text-align: center;
+  }
+
+  .top-wrapper .container .top-wrapper-right
+  .password-form-container {
+    text-align: center;
+  }
+
 }
