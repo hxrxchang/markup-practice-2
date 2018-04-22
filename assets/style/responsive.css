@@ -21,6 +21,7 @@
 
   .top-wrapper .container {
     display: block;
+    padding:0 10px 20px 10px;
   }
 
   .top-wrapper .container .top-wrapper-left span {
@@ -43,4 +44,12 @@
     text-align: center;
   }
 
+
+  .mail-form {
+    width: 100%;
+  }
+
+  .password-form {
+    width: 100%;
+  }
 }
