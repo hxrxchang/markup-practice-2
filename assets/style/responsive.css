@@ -24,6 +24,10 @@
     padding:0 10px 20px 10px;
   }
 
+  .top-wrapper-left {
+    margin-top: 0;
+  }
+
   .top-wrapper .container .top-wrapper-left span {
     display: none;
   }
